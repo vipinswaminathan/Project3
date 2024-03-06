@@ -1,0 +1,91 @@
+body{
+    border: 0px;
+    padding: 0px;
+}
+/* banner section  */
+#banner-img{
+    background: url( banner-img.jpg);
+}
+.banner-search{
+    border: 2px solid rgb(178, 172, 172);
+}
+.search-icon{
+    background-color: transparent;
+    border: 0px;
+    width: 150px;
+}
+h1.banner-head{
+    padding-top: 100px;
+    font-weight: 500;
+}
+.banner-box{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+/* about section  */
+.about-img{
+    background: url( Engineer.avif);
+    background-size: cover;
+    padding: 350px 25px 115px 25px;
+}
+hr.hr{
+    max-width: 50px;
+    border-top: 8px solid ;
+}
+button.more-button{
+    border-radius: 0px;
+    border: 0px;
+    font-size: 18px;
+}
+/* bussiness section  */
+.bussiness-text{
+    text-align: justify;
+}
+/* mission section  */
+.mission-box{
+    padding: 80px ;
+}
+/* stats section  */
+.stat-img{
+    background: url( stats\ img.avif);
+    background-position: center;
+}
+/* discription section */
+.discrip-btn{
+    width: 100%;
+    border-radius: 0px;
+    border: 0px;
+    padding: 10px 0px;
+    color: black;
+    transition: 0.25s;
+}
+.discrip-btn:hover{
+    color: white;
+}
+/* pricing table section  */
+.basic-box{
+    background-color: #f8dd9a;
+}
+.basic-txt{
+    background-color: #fefaf1;
+}
+/* design section  */
+.design-img{
+    background-image:url( design-img.jpg) ;
+    background-size: cover;
+}
+button.design-btn{
+    border-radius:0px;
+}
+button.design-btn:hover{
+    color: black;
+}
+/* quote section  */
+.quote-box{
+    border-radius: 25px;
+}
+/* contact section  */
+#contact-img{
+    background-image: url( contact-img.jpg);
+    padding: 100px 0px; 
+}
+
